@@ -1,0 +1,19 @@
+[general]
+name=PolygonValidator
+qgisMinimumVersion=3.16
+description=🔷 Polygon Validator: Detects and visualizes polygon geometry anomalies like slivers, overlaps, close or duplicate vertices, and sharp angles.
+about=An interactive QGIS plugin for validating polygon geometries and visualizing anomalies using visual overlays and memory layers.
+version=1.0.0
+author=Michel El Hourani
+email=michel651@gmail.com
+tags=polygon,geometry,validator,slivers,overlap,anomaly,qgis,topology,vertices,angle
+homepage=https://github.com/mikha651/PolygonValidator
+tracker=https://github.com/mikha651/PolygonValidator/issues
+repository=https://github.com/mikha651/PolygonValidator
+icon=icon.png
+category=Vector
+experimental=False
+deprecated=False
+
+[help]
+changelog=CHANGELOG.md
