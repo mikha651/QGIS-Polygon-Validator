@@ -70,4 +70,4 @@ For questions, suggestions, or contributions, feel free to reach out.
 
 ---
 
-Made with ❤️ by **Michel El Hourani**
+Made with ❤️ by **mikha651**
